@@ -11,6 +11,6 @@ Developed for the Department of Technical Education, Government of Rajasthan. Th
 💡 Technologies Used
 - IBM Watson Assistant
 - IBM Cloud
-- Node.js / HTML / CSS (optional)
+
 
 
